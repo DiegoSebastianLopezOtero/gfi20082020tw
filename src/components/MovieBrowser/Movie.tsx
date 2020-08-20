@@ -5,7 +5,7 @@ import Box from '@material-ui/core/Box';
 import ModalMovie from './ModalMovie'
 
 import { makeStyles } from '@material-ui/core/styles';
-const DEFAULT_PLACEHOLDER_IMAGE ="";
+const DEFAULT_PLACEHOLDER_IMAGE ="https://www.reelviews.net/resources/img/default_poster.jpg";
 
 
 const Movie = ({ movie }) => {
